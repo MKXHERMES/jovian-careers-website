@@ -16,7 +16,7 @@ JOBS = [{'id': 1,
          'id': 3,
          'title': 'Frontend Engineer',
          'location': 'Remote',
-         'Salary': 'Rs.12,00,000'
+         'Salary': 'Rs.15,00,000'
         },
         {
          'id': 4,
